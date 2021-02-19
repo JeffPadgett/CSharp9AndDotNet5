@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Chapter04/Debugging/bin/Debug/net5.0/Debugging.deps.json
+/Users/jeff/Desktop/Code/Chapter04/Debugging/bin/Debug/net5.0/Debugging.runtimeconfig.json
+/Users/jeff/Desktop/Code/Chapter04/Debugging/bin/Debug/net5.0/Debugging.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Chapter04/Debugging/bin/Debug/net5.0/Debugging.dll
+/Users/jeff/Desktop/Code/Chapter04/Debugging/bin/Debug/net5.0/ref/Debugging.dll
+/Users/jeff/Desktop/Code/Chapter04/Debugging/bin/Debug/net5.0/Debugging.pdb
+/Users/jeff/Desktop/Code/Chapter04/Debugging/obj/Debug/net5.0/Debugging.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Chapter04/Debugging/obj/Debug/net5.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Chapter04/Debugging/obj/Debug/net5.0/Debugging.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Chapter04/Debugging/obj/Debug/net5.0/Debugging.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Chapter04/Debugging/obj/Debug/net5.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Chapter04/Debugging/obj/Debug/net5.0/Debugging.dll
+/Users/jeff/Desktop/Code/Chapter04/Debugging/obj/Debug/net5.0/ref/Debugging.dll
+/Users/jeff/Desktop/Code/Chapter04/Debugging/obj/Debug/net5.0/Debugging.pdb
+/Users/jeff/Desktop/Code/Chapter04/Debugging/obj/Debug/net5.0/Debugging.genruntimeconfig.cache
