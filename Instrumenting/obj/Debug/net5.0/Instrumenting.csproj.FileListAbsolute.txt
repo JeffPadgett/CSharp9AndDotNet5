@@ -13,3 +13,13 @@
 /Users/jeff/Desktop/Code/Chapter04/Instrumenting/obj/Debug/net5.0/ref/Instrumenting.dll
 /Users/jeff/Desktop/Code/Chapter04/Instrumenting/obj/Debug/net5.0/Instrumenting.pdb
 /Users/jeff/Desktop/Code/Chapter04/Instrumenting/obj/Debug/net5.0/Instrumenting.genruntimeconfig.cache
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/bin/Debug/net5.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/bin/Debug/net5.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/jeff/Desktop/Code/Chapter04/Instrumenting/obj/Debug/net5.0/Instrumenting.csproj.CopyComplete

@@ -22,7 +22,7 @@ namespace Instrumenting
 
             IConfigurationRoot configuration = builder.Build();
 
-            var ts = new TraceSwitch(displayName: "PacketSwitch", description: "This switch is set via a JSON config.");
+            var ts = new TraceSwitch(displayName: "PacktSwitch", description: "This switch is set via a JSON config.");
 
             configuration.GetSection("PacktSwitch").Bind(ts);
 
