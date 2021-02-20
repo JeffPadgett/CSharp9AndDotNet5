@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PrimeConsoleApp/1.0.0": {
+        "dependencies": {
+          "PrimeFactorsLib": "1.0.0"
+        },
+        "runtime": {
+          "PrimeConsoleApp.dll": {}
+        }
+      },
+      "PrimeFactorsLib/1.0.0": {
+        "runtime": {
+          "PrimeFactorsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimeFactorsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

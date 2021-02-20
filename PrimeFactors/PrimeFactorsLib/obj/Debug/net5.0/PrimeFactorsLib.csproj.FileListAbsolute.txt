@@ -1,0 +1,12 @@
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/bin/Debug/net5.0/PrimeFactorsLib.deps.json
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/bin/Debug/net5.0/PrimeFactorsLib.dll
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/bin/Debug/net5.0/ref/PrimeFactorsLib.dll
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/bin/Debug/net5.0/PrimeFactorsLib.pdb
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.dll
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/ref/PrimeFactorsLib.dll
+/Users/jeff/Desktop/Code/Chapter04/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.pdb

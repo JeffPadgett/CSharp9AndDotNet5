@@ -27,7 +27,7 @@ namespace CalculatorLibUnitTests
             //arrange
             double a = 2;
             double b = 3;
-            double expected =5;
+            double expected = 5;
             var calc = new Calculator();
 
             //act
