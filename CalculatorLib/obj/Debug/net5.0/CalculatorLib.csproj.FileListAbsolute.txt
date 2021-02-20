@@ -1,0 +1,12 @@
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/bin/Debug/net5.0/CalculatorLib.deps.json
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/bin/Debug/net5.0/CalculatorLib.dll
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/bin/Debug/net5.0/ref/CalculatorLib.dll
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/bin/Debug/net5.0/CalculatorLib.pdb
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.dll
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/ref/CalculatorLib.dll
+/Users/jeff/Desktop/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.pdb
