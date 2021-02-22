@@ -1,0 +1,9 @@
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.dll
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb
