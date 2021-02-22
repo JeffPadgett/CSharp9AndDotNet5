@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Packt.Shared
 {
@@ -10,6 +11,8 @@ namespace Packt.Shared
 
         public WondersOfThEAncientWorld FavoriteAncientWonder;
         public WondersOfThEAncientWorld BucketList;
+
+        public List<Person> Children = new List<Person>();
 
     }
 }
