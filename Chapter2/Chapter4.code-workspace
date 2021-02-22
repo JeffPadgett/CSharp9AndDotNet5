@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../Chapter04/WritingFunctions"
+		},
+		{
+			"path": "../Chapter04"
+		},
+		{
+			"path": "../Chapter04/Debugging"
+		},
+		{
+			"path": "../Chapter04/Instrumenting"
+		},
+		{
+			"path": "../Chapter04/CalculatorLib"
+		},
+		{
+			"path": "../Chapter04/CalculatorLibUnitTests"
+		},
+		{
+			"path": "../Chapter04/PrimeFactors/PrimeFactorsLib"
+		},
+		{
+			"path": "../Chapter04/PrimeFactors/PrimeFactorsTest"
+		},
+		{
+			"path": "../Chapter04/PrimeFactors/PrimeConsoleApp"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Chapter2/Formatting/bin/Debug/net5.0/Formatting.deps.json
+/Users/jeff/Desktop/Code/Chapter2/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.json
+/Users/jeff/Desktop/Code/Chapter2/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Chapter2/Formatting/bin/Debug/net5.0/Formatting.dll
+/Users/jeff/Desktop/Code/Chapter2/Formatting/bin/Debug/net5.0/ref/Formatting.dll
+/Users/jeff/Desktop/Code/Chapter2/Formatting/bin/Debug/net5.0/Formatting.pdb
+/Users/jeff/Desktop/Code/Chapter2/Formatting/obj/Debug/net5.0/Formatting.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Chapter2/Formatting/obj/Debug/net5.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Chapter2/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Chapter2/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Chapter2/Formatting/obj/Debug/net5.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Chapter2/Formatting/obj/Debug/net5.0/Formatting.dll
+/Users/jeff/Desktop/Code/Chapter2/Formatting/obj/Debug/net5.0/ref/Formatting.dll
+/Users/jeff/Desktop/Code/Chapter2/Formatting/obj/Debug/net5.0/Formatting.pdb
+/Users/jeff/Desktop/Code/Chapter2/Formatting/obj/Debug/net5.0/Formatting.genruntimeconfig.cache
