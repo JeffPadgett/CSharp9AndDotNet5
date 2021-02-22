@@ -50,7 +50,21 @@ namespace PeopleApp
 
             WriteLine($"{gunny.Name} of {gunny.HomePlanet} was created at {gunny.Instantiated:hh:mm:ss} on a {gunny.Instantiated:dddd}.");
 
-            
+            bob.WriteToConsole();
+            WriteLine(bob.GetOrigin());
+
+            (string, int) fruit = bob.GetFruit();
+
+            WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
+
+            var fruitNamed = bob.GetNamedFruit("test string", 8);
+
+            WriteLine($"there are {fruitNamed.Item1} and {fruitNamed.Item2}");
+
+            //Deconstructing
+            (string fruitName, int fruitNumber) = bob.GetFruit();
+
+            WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
 
         }
     }

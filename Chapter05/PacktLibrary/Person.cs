@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static System.Console;
 
 namespace Packt.Shared
 {
@@ -35,5 +36,38 @@ namespace Packt.Shared
             Instantiated = DateTime.Now;
         }
 
+        // methods
+        public void WriteToConsole()
+        {
+            WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
+        }
+
+        public string GetOrigin()
+        {
+            return $"{Name} was born on {HomePlanet}";
+        }
+
+        public (string, int) GetFruit()
+        {
+            return ("Apples", 5);
+        }
+
+        public (string, int) GetNamedFruit(string name, int num)
+        {
+            return (name, num);
+        }
+
+        //store return value in a tuple variable with two fields
+        //(string name, int age) tupleWithNamedFields = GetPerson();
+
+        public string SayHello()
+        {
+            return $"{Name} says 'Hello!'";
+        }
+
+        public string SayHelloTo(string name)
+        {
+            return $"{Name} says 'Hello {name}!'";
+        }
     }
 }
