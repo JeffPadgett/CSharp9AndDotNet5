@@ -56,6 +56,30 @@ namespace Packt.Shared
             }
         }
 
+        //static method to "multiply"
+        public static Person Procreate(Person p1, Person p2)
+        {
+            var baby = new Person
+            {
+                Name = $"Baby of {p1.Name} and {p2.Name}"
+
+            };
+
+            p1.Children.Add(baby);
+            p2.Children.Add(baby);
+
+            return baby;
+        }
+
+        //instance method to "multiply with"
+        public Person ProCreateWith(Person partner)
+        {
+            return Procreate(this, partner);
+        }
+
+        
+
+
         
     }
 }
