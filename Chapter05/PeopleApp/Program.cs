@@ -80,6 +80,37 @@ namespace PeopleApp
             bob.PassingParameters(d, ref e, out int f);
             WriteLine($"After: d = {d} e = {e} and f = {f}");
 
+            var sam = new Person {
+                Name = "Sam",
+                DateOfBirth = new DateTime(1986, 1, 27)
+            };
+
+            WriteLine(sam.Origin);
+            WriteLine(sam.Greeting);
+            WriteLine(sam.Age);
+
+            sam.FavoriteIceCream = "Chocolate Fudge";
+
+            WriteLine($"Sam's favorite ice-cream flavor is {sam.FavoriteIceCream}.");
+            try 
+            {
+                sam.FavoritePrimaryColor = "Orange";
+            }
+            catch
+            {
+                WriteLine($"{sam.FavoritePrimaryColor} is not a correct value, please enter either red, green, or blue.");
+                sam.FavoritePrimaryColor = Console.ReadLine();
+            }
+
+            WriteLine($"Sam's favorite primary color is {sam.FavoritePrimaryColor}.");
+
+            sam.Children.Add(new Person { Name = "Charlie"});
+            sam.Children.Add(new Person { Name = "Ella"});
+
+            //custom referencing through intex
+            WriteLine($"Sam's first child is {sam[0].Name}");
+            //standard
+            WriteLine($"Sam's second child is {sam.Children[0].Name}");
         }
     }
 }
