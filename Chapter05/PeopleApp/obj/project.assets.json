@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/PacktLibrary.dll": {}
         }
+      },
+      "PacktLibrary9/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PacktLibrary9.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibrary9.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../PacktLibrary/PacktLibrary.csproj",
       "msbuildProject": "../PacktLibrary/PacktLibrary.csproj"
+    },
+    "PacktLibrary9/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibrary9/PacktLibrary9.csproj",
+      "msbuildProject": "../PacktLibrary9/PacktLibrary9.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "PacktLibrary >= 1.0.0"
+      "PacktLibrary >= 1.0.0",
+      "PacktLibrary9 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,6 +69,9 @@
           "projectReferences": {
             "/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/PacktLibrary.csproj": {
               "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary/PacktLibrary.csproj"
+            },
+            "/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/PacktLibrary9.csproj": {
+              "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/PacktLibrary9.csproj"
             }
           }
         }

@@ -1,0 +1,12 @@
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/bin/Debug/net5.0/PacktLibrary9.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/bin/Debug/net5.0/PacktLibrary9.dll
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/bin/Debug/net5.0/ref/PacktLibrary9.dll
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/bin/Debug/net5.0/PacktLibrary9.pdb
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.dll
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/obj/Debug/net5.0/ref/PacktLibrary9.dll
+/Users/jeff/Desktop/Code/Code/Chapter05/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.pdb

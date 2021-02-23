@@ -16,3 +16,5 @@
 /Users/jeff/Desktop/Code/Code/Chapter05/PeopleApp/obj/Debug/net5.0/ref/PeopleApp.dll
 /Users/jeff/Desktop/Code/Code/Chapter05/PeopleApp/obj/Debug/net5.0/PeopleApp.pdb
 /Users/jeff/Desktop/Code/Code/Chapter05/PeopleApp/obj/Debug/net5.0/PeopleApp.genruntimeconfig.cache
+/Users/jeff/Desktop/Code/Code/Chapter05/PeopleApp/bin/Debug/net5.0/PacktLibrary9.dll
+/Users/jeff/Desktop/Code/Code/Chapter05/PeopleApp/bin/Debug/net5.0/PacktLibrary9.pdb
