@@ -1,3 +1,5 @@
+using System;
+
 namespace Packt.Shared
 {
     public partial class Person
@@ -77,8 +79,60 @@ namespace Packt.Shared
             return Procreate(this, partner);
         }
 
-        
 
+        // operator to "multiplly"
+        public static Person operator *(Person p1, Person p2)
+        {
+            return Person.Procreate(p1,p2);
+        }
+
+        //method with a local function
+        public static int Factorial(int number)
+        {
+            if (number < 0)
+            {
+                throw new ArgumentException($"{nameof(number)} cannot be less than zero.");
+            }
+
+            return localFactorial(number);
+
+            int localFactorial(int localNumber)//local only function
+            {
+                if (localNumber < 1) return 1;
+                return localNumber * localFactorial(localNumber - 1);
+            }
+        }
+
+//------------------------------Delegates and handling and defining---------------------------
+        public delegate void EventHandler(object sender, EventArgs e);
+
+   //public delegate void EventHandler<TEventArgs>(object sender, TEventArgs e);
+
+        //event delegate field
+        public EventHandler Shout;
+
+        // data field
+        public int AngerLevel;
+
+        //Method
+        public void Poke()
+        {
+            AngerLevel++;
+            if (AngerLevel >= 3)
+            {
+                //if something is listening...
+                if (Shout != null)
+                {
+                    // ...Then call the delegate 
+                    Shout(this, EventArgs.Empty);
+                }
+
+            //CHecking whether an object is null before calling one of it's methods is very common. C# 6.0 and later allows null checks to be simplified inline.
+            //Shout?.Invoke(this, EventArgs.Empty);
+            }
+        }
+
+        
 
         
     }
