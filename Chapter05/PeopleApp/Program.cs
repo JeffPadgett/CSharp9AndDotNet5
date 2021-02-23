@@ -66,6 +66,20 @@ namespace PeopleApp
 
             WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
 
+            int a = 10;
+            int b = 20;
+            int c;
+            WriteLine($"Before : a = {a}, b = {b}, c does not exist yet");
+            bob.PassingParameters(a,ref b, out c);
+            WriteLine($"After: a = {a}, b = {b}, c = {c}");
+
+            int d = 10;
+            int e = 20;
+
+            WriteLine($"Before: d = {d}, e = {e}, f doesn't exist yet!");
+            bob.PassingParameters(d, ref e, out int f);
+            WriteLine($"After: d = {d} e = {e} and f = {f}");
+
         }
     }
 }

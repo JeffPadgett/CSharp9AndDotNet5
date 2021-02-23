@@ -65,9 +65,27 @@ namespace Packt.Shared
             return $"{Name} says 'Hello!'";
         }
 
-        public string SayHelloTo(string name)
+        public string SayHello(string name)
         {
             return $"{Name} says 'Hello {name}!'";
         }
+
+        public string OptionalParameters(string command = "run!", double number = 0.0, bool active = true)
+        {
+            return $"command is {command}, number is {number}, active is {active}.";
+        }
+
+        public void PassingParameters(int x, ref int y, out int z)
+        {
+            //out parameters cannot have a default
+            //And must be initalized inside the method
+            z = 99;
+
+            //increment each parameter
+            x++;
+            y++;
+            z++;
+        }
+        
     }
 }
