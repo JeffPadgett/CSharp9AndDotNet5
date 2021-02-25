@@ -183,13 +183,62 @@ namespace PeopleApp
             // call an operator
             var baby3 = harry * mary;
 
-            harry.Shout = Harry_Shout;
+            harry.Shout += Harry_Shout;
             harry.Poke();
             harry.Poke();
             harry.Poke();
             harry.Poke();
 
-            
+            Person[] people = 
+            {
+                new Person {Name = "Simon"},
+                new Person {Name = "Brittany"},
+                new Person {Name = "Adam"},
+                new Person {Name = "Jeff"}
+            };
+            WriteLine($"Initial list of people:");
+            foreach (var person in people)
+            {
+                WriteLine($" {person.Name}");
+            }
+
+            WriteLine($"Use Person's IComparable implementation to sort:");
+            Array.Sort(people);
+            foreach (var person in people)
+            {
+                WriteLine($" {person.Name}");
+            }
+
+            WriteLine($"Using PersonComparer's IComparer implementation to sort:");
+            Array.Sort(people, new PersonComparer());
+            foreach (var person in people)
+            {
+                WriteLine($" {person.Name}");
+            }
+
+            Iplayable testDVDPlayer = new DvdPlayer();
+
+            testDVDPlayer.Stop();
+            WriteLine(testDVDPlayer);
+
+            WriteLine("__-__-______-_---___---_-_-_-_-__-_-_-_-_-_-_--_-_-_--_-_-_-_---_------_-__--__--_--_--_--_--_--__-");
+
+            var t1 = new Thing();
+            t1.Data = 42;
+            WriteLine($"Thing with an integer: {t1.Process(42)}");
+
+            var t2 = new Thing();
+            t2.Data = "apple";
+            WriteLine($"Thing with a string: {t2.Process("apple")}");
+
+            WriteLine("___------_-_-_-_-_-__-_---_-_-_----_-_----_----_---_--_--_----_------_-__-_--_----_----_--_-_--");
+            var gt1 = new GenericThing<int>();
+            gt1.Data = 42;
+            WriteLine($"GenericThing with an integer: {gt1.Process(42)}");
+
+            var gt2 = new GenericThing<string>();
+            gt2.Data = "apple";
+            WriteLine($"GenericThing with a string: {gt2.Process("apple")}");
         }
 
     }

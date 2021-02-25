@@ -4,7 +4,7 @@ using static System.Console;
 
 namespace Packt.Shared
 {
-    public partial class Person : Object
+    public partial class Person : IComparable<Person>
     {
         //fields
         public string Name;
@@ -86,6 +86,6 @@ namespace Packt.Shared
             y++;
             z++;
         }
-        
+
     }
 }

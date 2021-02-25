@@ -108,8 +108,8 @@ namespace Packt.Shared
 
    //public delegate void EventHandler<TEventArgs>(object sender, TEventArgs e);
 
-        //event delegate field
-        public EventHandler Shout;
+        //event delegate field, if it is just one method with the deligate then you don't need the "event" key word. Multiple methods can be assoisiated with a deligate. 
+        public event EventHandler Shout;
 
         // data field
         public int AngerLevel;
@@ -132,8 +132,12 @@ namespace Packt.Shared
             }
         }
 
-        
+        public int CompareTo(Person other)
+        {
+            return Name.CompareTo(other.Name);
+        }
 
+        
         
     }
 }

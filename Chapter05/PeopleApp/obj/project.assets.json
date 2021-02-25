@@ -4,7 +4,7 @@
     "net5.0": {
       "PacktLibrary/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
           "bin/placeholder/PacktLibrary.dll": {}
         },
