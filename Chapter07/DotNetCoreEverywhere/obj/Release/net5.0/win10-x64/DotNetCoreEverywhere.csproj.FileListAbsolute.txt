@@ -1,0 +1,16 @@
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/DotNetCoreEverywhere.exe
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/DotNetCoreEverywhere.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/DotNetCoreEverywhere.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/DotNetCoreEverywhere.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/DotNetCoreEverywhere.dll
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/ref/DotNetCoreEverywhere.dll
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/DotNetCoreEverywhere.pdb
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/obj/Release/net5.0/win10-x64/DotNetCoreEverywhere.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/obj/Release/net5.0/win10-x64/DotNetCoreEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/obj/Release/net5.0/win10-x64/DotNetCoreEverywhere.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/obj/Release/net5.0/win10-x64/DotNetCoreEverywhere.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/obj/Release/net5.0/win10-x64/DotNetCoreEverywhere.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/obj/Release/net5.0/win10-x64/DotNetCoreEverywhere.dll
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/obj/Release/net5.0/win10-x64/ref/DotNetCoreEverywhere.dll
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/obj/Release/net5.0/win10-x64/DotNetCoreEverywhere.pdb
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/obj/Release/net5.0/win10-x64/DotNetCoreEverywhere.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/publish/DotNetCoreEverywhere.pdb
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/publish/DotNetCoreEverywhere.exe

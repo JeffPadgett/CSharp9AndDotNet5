@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YTcsu720UjfDI7JDaDafHULcJEGxnDz7bECtLUEoxGXRKZ961Hu2HO1B2LckPet13JFve94RXlGDFSVmZsi9hQ==",
+  "dgSpecHash": "gArRQ2X9j2xjVZjQkU1E1R8qKv8nKosBz9h+YDPQqsr6AzTXtMeFvlNTMbTCtKLVkJ8MCRQ596g52DthOl2wYg==",
   "success": true,
   "projectFilePath": "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jeff/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

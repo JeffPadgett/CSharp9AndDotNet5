@@ -13,7 +13,7 @@ namespace AssembliesAndNamespaces
             string s1 = "hello";
             String s2 = "World";
             WriteLine($"{s1} {s2}");
-            Int32 testgo = 32;
+            //Int32 testgo = 32;
         }
     }
 }

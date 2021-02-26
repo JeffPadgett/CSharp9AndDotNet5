@@ -1,0 +1,9 @@
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Releasae/net5.0/osx-x64/publish/DotNetCoreEverywhere.pdb
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Releasae/net5.0/osx-x64/publish/libSystem.IO.Compression.Native.dylib
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Releasae/net5.0/osx-x64/publish/libSystem.Native.dylib
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Releasae/net5.0/osx-x64/publish/libSystem.Net.Security.Native.dylib
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Releasae/net5.0/osx-x64/publish/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Releasae/net5.0/osx-x64/publish/libSystem.Security.Cryptography.Native.OpenSsl.dylib
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Releasae/net5.0/osx-x64/publish/libclrjit.dylib
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Releasae/net5.0/osx-x64/publish/libcoreclr.dylib
+/Users/jeff/Desktop/Code/Code/Chapter07/DotNetCoreEverywhere/bin/Releasae/net5.0/osx-x64/publish/DotNetCoreEverywhere
