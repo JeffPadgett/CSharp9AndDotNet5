@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/bin/Debug/net5.0/AssembliesAndNamespaces.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/bin/Debug/net5.0/AssembliesAndNamespaces.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/bin/Debug/net5.0/AssembliesAndNamespaces.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/bin/Debug/net5.0/AssembliesAndNamespaces.dll
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/bin/Debug/net5.0/ref/AssembliesAndNamespaces.dll
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/bin/Debug/net5.0/AssembliesAndNamespaces.pdb
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.dll
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/ref/AssembliesAndNamespaces.dll
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.pdb
+/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.genruntimeconfig.cache
