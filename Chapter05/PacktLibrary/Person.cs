@@ -37,9 +37,9 @@ namespace Packt.Shared
         }
 
         // methods
-        public void WriteToConsole()
+        public virtual string WriteToConsole()
         {
-            WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
+            return "This is a person base method.";
         }
 
         public string GetOrigin()
@@ -85,6 +85,12 @@ namespace Packt.Shared
             x++;
             y++;
             z++;
+        }
+
+        // overridden methods
+        public override string ToString()
+        {
+            return $"{Name} is a {base.ToString()}";
         }
 
     }
