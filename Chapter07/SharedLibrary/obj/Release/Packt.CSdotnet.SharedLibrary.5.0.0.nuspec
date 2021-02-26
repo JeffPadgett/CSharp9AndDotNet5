@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Packt.CSdotnet.SharedLibrary</id>
+    <version>5.0.0</version>
+    <title>C# 9 and .NET 5 Shared Library</title>
+    <authors>Mark J Price</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MS-PL</license>
+    <licenseUrl>https://licenses.nuget.org/MS-PL</licenseUrl>
+    <icon>packt-csdotnet-sharedlibrary.png</icon>
+    <projectUrl>http://github.com/markjprice/cs9dotnet5</projectUrl>
+    <description>Three extension methods to validate a string value.</description>
+    <releaseNotes>Example shared library package for Nuget</releaseNotes>
+    <copyright>Copyright 2020 Packt Publishing Limited</copyright>
+    <tags>string extensions packt csharp net5</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/jeff/Desktop/Code/Code/Chapter07/SharedLibrary/bin/Release/netstandard2.0/SharedLibrary.dll" target="lib/netstandard2.0/SharedLibrary.dll" />
+    <file src="/Users/jeff/Desktop/Code/Code/Chapter07/SharedLibrary/packt-csdotnet-sharedlibrary.png" target="packt-csdotnet-sharedlibrary.png" />
+  </files>
+</package>

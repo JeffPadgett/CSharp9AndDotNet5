@@ -5,10 +5,10 @@
   },
   "projects": {
     "/Users/jeff/Desktop/Code/Code/Chapter07/SharedLibrary/SharedLibrary.csproj": {
-      "version": "1.0.0",
+      "version": "5.0.0",
       "restore": {
         "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter07/SharedLibrary/SharedLibrary.csproj",
-        "projectName": "SharedLibrary",
+        "projectName": "Packt.CSdotnet.SharedLibrary",
         "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter07/SharedLibrary/SharedLibrary.csproj",
         "packagesPath": "/Users/jeff/.nuget/packages/",
         "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter07/SharedLibrary/obj/",
@@ -17,14 +17,14 @@
           "/Users/jeff/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netstandard2.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,16 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -47,11 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
