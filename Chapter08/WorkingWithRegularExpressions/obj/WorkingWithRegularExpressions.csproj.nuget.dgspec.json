@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj": {}
+    "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/WorkingWithRegularExpressions.csproj": {}
   },
   "projects": {
-    "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj": {
+    "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/WorkingWithRegularExpressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
-        "projectName": "AssembliesAndNamespaces",
-        "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
+        "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/WorkingWithRegularExpressions.csproj",
+        "projectName": "WorkingWithRegularExpressions",
+        "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/WorkingWithRegularExpressions.csproj",
         "packagesPath": "/Users/jeff/.nuget/packages/",
-        "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/",
+        "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeff/.nuget/NuGet/NuGet.Config"
@@ -37,16 +37,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "dialectsoftware.collections.matrix": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
-            "newtonsoft.json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

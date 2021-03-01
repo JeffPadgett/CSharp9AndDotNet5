@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/bin/Debug/net5.0/ref/WorkingWithRegularExpressions.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/Debug/net5.0/ref/WorkingWithRegularExpressions.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.genruntimeconfig.cache

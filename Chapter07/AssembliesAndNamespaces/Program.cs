@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Xml.Linq;
 using static System.Console;
+using DialectSoftware.Collections;
+using DialectSoftware.Collections.Generics;
 
 namespace AssembliesAndNamespaces
 {
@@ -8,12 +10,9 @@ namespace AssembliesAndNamespaces
     {
         static void Main(string[] args)
         {
-            var doc = new XDocument();
-
-            string s1 = "hello";
-            String s2 = "World";
-            WriteLine($"{s1} {s2}");
-            //Int32 testgo = 32;
+            var x = new Axis("x", 0, 10, 1);
+            var y = new Axis("y", 0, 4, 1);
+            var matrix = new Matrix<long>(new[] {x, y});
         }
     }
 }

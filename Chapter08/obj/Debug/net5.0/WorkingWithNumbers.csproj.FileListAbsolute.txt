@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter08/bin/Debug/net5.0/WorkingWithNumbers.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter08/bin/Debug/net5.0/WorkingWithNumbers.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter08/bin/Debug/net5.0/WorkingWithNumbers.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter08/bin/Debug/net5.0/WorkingWithNumbers.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/bin/Debug/net5.0/ref/WorkingWithNumbers.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/bin/Debug/net5.0/WorkingWithNumbers.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/obj/Debug/net5.0/WorkingWithNumbers.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/obj/Debug/net5.0/WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter08/obj/Debug/net5.0/WorkingWithNumbers.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/obj/Debug/net5.0/WorkingWithNumbers.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter08/obj/Debug/net5.0/WorkingWithNumbers.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/obj/Debug/net5.0/WorkingWithNumbers.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/obj/Debug/net5.0/ref/WorkingWithNumbers.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/obj/Debug/net5.0/WorkingWithNumbers.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/obj/Debug/net5.0/WorkingWithNumbers.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj": {}
+    "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNumbers.csproj": {}
   },
   "projects": {
-    "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj": {
+    "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
-        "projectName": "AssembliesAndNamespaces",
-        "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
+        "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNumbers.csproj",
+        "projectName": "WorkingWithNumbers",
+        "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNumbers.csproj",
         "packagesPath": "/Users/jeff/.nuget/packages/",
-        "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter07/AssembliesAndNamespaces/obj/",
+        "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter08/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeff/.nuget/NuGet/NuGet.Config"
@@ -37,16 +37,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "dialectsoftware.collections.matrix": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
-            "newtonsoft.json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/bin/Debug/net5.0/ref/WorkingWithText.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/obj/Debug/net5.0/ref/WorkingWithText.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.genruntimeconfig.cache
