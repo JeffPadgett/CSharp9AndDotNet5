@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/ref/WorkingWithNetworkResources.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/ref/WorkingWithNetworkResources.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.genruntimeconfig.cache

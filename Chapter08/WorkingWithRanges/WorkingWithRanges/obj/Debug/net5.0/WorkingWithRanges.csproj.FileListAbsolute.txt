@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/bin/Debug/net5.0/ref/WorkingWithRanges.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/obj/Debug/net5.0/ref/WorkingWithRanges.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithRanges/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.genruntimeconfig.cache
