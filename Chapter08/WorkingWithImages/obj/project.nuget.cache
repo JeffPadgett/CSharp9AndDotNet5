@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CKYsl1eIuDS0GeOK39Ow7rDJV7A0Z1QQuimZ4R2OD8W/sKewq8PKMxDysmZXMLLUTeGicAJPvZ7n8z/wjecB/g==",
+  "dgSpecHash": "5ikwP+XC9G4H71tWbNbfJkvDRge2UbtQ7DHFC3Pkn85JCpx/Ep6mzIhmHl6WO7kb/K1y5NmugA7gp3mEQkpp0g==",
   "success": true,
   "projectFilePath": "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/WorkingWithImages.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jeff/.nuget/packages/sixlabors.imagesharp/1.0.3/sixlabors.imagesharp.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

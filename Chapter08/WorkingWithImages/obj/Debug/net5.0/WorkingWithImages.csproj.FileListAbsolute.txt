@@ -1,0 +1,17 @@
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/bin/Debug/net5.0/ref/WorkingWithImages.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/bin/Debug/net5.0/SixLabors.ImageSharp.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.csproj.CopyComplete
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/ref/WorkingWithImages.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.genruntimeconfig.cache

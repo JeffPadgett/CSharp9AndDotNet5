@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/WorkingWithImages.csproj": {}
+    "/Users/jeff/Desktop/Code/Code/Chapter08/Internationalization/Internationalization.csproj": {}
   },
   "projects": {
-    "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/WorkingWithImages.csproj": {
+    "/Users/jeff/Desktop/Code/Code/Chapter08/Internationalization/Internationalization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/WorkingWithImages.csproj",
-        "projectName": "WorkingWithImages",
-        "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/WorkingWithImages.csproj",
+        "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter08/Internationalization/Internationalization.csproj",
+        "projectName": "Internationalization",
+        "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter08/Internationalization/Internationalization.csproj",
         "packagesPath": "/Users/jeff/.nuget/packages/",
-        "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter08/WorkingWithImages/obj/",
+        "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter08/Internationalization/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeff/.nuget/NuGet/NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "SixLabors.ImageSharp": {
-              "target": "Package",
-              "version": "[1.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
