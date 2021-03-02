@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/bin/Debug/net5.0/RegExTester.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/bin/Debug/net5.0/RegExTester.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/bin/Debug/net5.0/RegExTester.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/bin/Debug/net5.0/RegExTester.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/bin/Debug/net5.0/ref/RegExTester.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/bin/Debug/net5.0/RegExTester.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/obj/Debug/net5.0/RegExTester.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/obj/Debug/net5.0/RegExTester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/obj/Debug/net5.0/RegExTester.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/obj/Debug/net5.0/RegExTester.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/obj/Debug/net5.0/RegExTester.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/obj/Debug/net5.0/RegExTester.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/obj/Debug/net5.0/ref/RegExTester.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/obj/Debug/net5.0/RegExTester.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/RegExTester/obj/Debug/net5.0/RegExTester.genruntimeconfig.cache
