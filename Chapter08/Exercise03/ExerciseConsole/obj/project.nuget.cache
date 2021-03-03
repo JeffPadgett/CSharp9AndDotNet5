@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnLWql19klFCqTZiRPsIz/zQ/dzL5WRxkEhdHjtH305mJWGQBkStbxZlPWPb2KMfCdVrgaarmxMT3WELIEnKSA==",
+  "success": true,
+  "projectFilePath": "/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/ExerciseConsole/ExerciseConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/jeff/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512"
+  ],
+  "logs": []
+}

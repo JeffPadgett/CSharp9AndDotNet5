@@ -13,10 +13,6 @@ namespace RegExTester
             bool continuationFlag = true;
             do
             {
-                // if (escNotPressed == true)
-                // {
-                //     return;
-                // }
 
                 Write("Please enter a regular expression (or press ENTER to use the default): ");
                 Regex regExpression = new Regex(ReadLine());

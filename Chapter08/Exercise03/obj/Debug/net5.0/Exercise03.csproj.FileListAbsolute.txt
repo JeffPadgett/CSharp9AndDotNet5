@@ -1,0 +1,12 @@
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/bin/Debug/net5.0/Exercise03.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/bin/Debug/net5.0/Exercise03.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/bin/Debug/net5.0/ref/Exercise03.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/bin/Debug/net5.0/Exercise03.pdb
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/obj/Debug/net5.0/ref/Exercise03.dll
+/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.pdb

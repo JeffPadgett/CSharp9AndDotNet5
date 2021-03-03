@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Humanizer.Core/2.8.26": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Humanizer.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {}
+        }
+      },
+      "Exercise03/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Humanizer.Core": "2.8.26"
+        },
+        "compile": {
+          "bin/placeholder/Exercise03.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Humanizer.Core/2.8.26": {
+      "sha512": "OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
+      "type": "package",
+      "path": "humanizer.core/2.8.26",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "humanizer.core.2.8.26.nupkg.sha512",
+        "humanizer.core.nuspec",
+        "lib/netstandard1.0/Humanizer.dll",
+        "lib/netstandard1.0/Humanizer.xml",
+        "lib/netstandard2.0/Humanizer.dll",
+        "lib/netstandard2.0/Humanizer.xml",
+        "logo.png"
+      ]
+    },
+    "Exercise03/1.0.0": {
+      "type": "project",
+      "path": "../Exercise03.csproj",
+      "msbuildProject": "../Exercise03.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Exercise03 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jeff/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/ExerciseConsole/ExerciseConsole.csproj",
+      "projectName": "ExerciseConsole",
+      "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/ExerciseConsole/ExerciseConsole.csproj",
+      "packagesPath": "/Users/jeff/.nuget/packages/",
+      "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/ExerciseConsole/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jeff/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/Exercise03.csproj": {
+              "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter08/Exercise03/Exercise03.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
