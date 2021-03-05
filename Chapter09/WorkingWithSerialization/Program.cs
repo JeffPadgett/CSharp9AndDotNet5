@@ -5,6 +5,8 @@ using System.IO;
 using static System.Console;
 using static System.Environment;
 using static System.IO.Path;
+using System.Threading.Tasks;
+using NuJson = System.Text.Json.JsonSerializer;
 
 namespace WorkingWithSerialization
 {
@@ -34,7 +36,7 @@ namespace WorkingWithSerialization
     class Program
     {
 
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             var people = new List<Person>
             {
@@ -115,6 +117,23 @@ namespace WorkingWithSerialization
 
             // Display the serialized object graph
             WriteLine(File.ReadAllText(jsonPath));
+            WriteLine("____________________________________");
+
+            using (FileStream jsonLoad = File.Open(jsonPath, FileMode.Open))
+            {
+                // deserialize object graph into a List of Person
+                var loadedPeople = (List<Person>)
+
+                await NuJson.DeserializeAsync(
+                    utf8Json: jsonLoad,
+                    returnType: typeof(List<Person>)
+                );
+
+                foreach (var item in loadedPeople)
+                {
+                    WriteLine($"{item.LastName} has {item.Children?.Count ?? 0} children.");
+                }
+            }
 
         }
     }
