@@ -1,0 +1,17 @@
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/ref/WorkingWithSerialization.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.pdb
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/ref/WorkingWithSerialization.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.pdb
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.genruntimeconfig.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.csproj.CopyComplete
