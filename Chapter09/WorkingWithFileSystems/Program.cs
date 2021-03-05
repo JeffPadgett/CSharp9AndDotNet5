@@ -108,8 +108,26 @@ namespace WorkingWithFileSystems
             WriteLine(textReader.ReadToEnd());
             textReader.Close();
 
+            //Managing Paths
+            WriteLine($"Folder Name: {GetDirectoryName(textFile)}");
+            WriteLine($"File Name: {GetFileName(textFile)}");
+            WriteLine($"File Name without Extension: {GetFileNameWithoutExtension(textFile)}");
+            WriteLine($"File Extension: {GetExtension(textFile)}");
+            WriteLine($"Random File Name: {GetRandomFileName()}");
+            WriteLine($"Temporary File Name: {GetTempFileName()}");
 
+            // To get more info about a file or directory for example, it's size or when last accessed, 
+            // you can create an instance of the FileINfo or DirectoryInfo class
 
+            //FileInfo and DirectoryInfo both inherit form FileSystemInfo, but have members such a LastAccessTime and Delete. 
+            var info = new FileInfo(backupFile);
+            WriteLine($"{backupFile}");
+            WriteLine($"CONTAINS {info.Length} bytes");
+            WriteLine($"Last accessed {info.LastAccessTime}");
+            WriteLine($"Has readonly set to {info.IsReadOnly}");
+
+            //FileStream file = File.Open(textFile, FileMode.Open, FileAccess.Read, FileShare.Read);
+            
         }
         static void Main(string[] args)
         {

@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/bin/Debug/net5.0/WorkingWithStreams.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/bin/Debug/net5.0/WorkingWithStreams.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/bin/Debug/net5.0/WorkingWithStreams.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/bin/Debug/net5.0/WorkingWithStreams.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/bin/Debug/net5.0/ref/WorkingWithStreams.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/bin/Debug/net5.0/WorkingWithStreams.pdb
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/obj/Debug/net5.0/WorkingWithStreams.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/obj/Debug/net5.0/WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/obj/Debug/net5.0/WorkingWithStreams.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/obj/Debug/net5.0/WorkingWithStreams.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/obj/Debug/net5.0/WorkingWithStreams.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/obj/Debug/net5.0/WorkingWithStreams.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/obj/Debug/net5.0/ref/WorkingWithStreams.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/obj/Debug/net5.0/WorkingWithStreams.pdb
+/Users/jeff/Desktop/Code/Code/Chapter09/WorkingWithStreams/obj/Debug/net5.0/WorkingWithStreams.genruntimeconfig.cache
