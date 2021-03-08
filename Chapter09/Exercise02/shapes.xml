@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfShape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Shape xsi:type="Circle">
+    <Color>Red</Color>
+    <Radius>2.5</Radius>
+    <Height>0</Height>
+    <Width>0</Width>
+  </Shape>
+  <Shape xsi:type="Rectangle">
+    <Color>Blue</Color>
+    <Radius>0</Radius>
+    <Height>20</Height>
+    <Width>10</Width>
+  </Shape>
+  <Shape xsi:type="Circle">
+    <Color>Green</Color>
+    <Radius>8</Radius>
+    <Height>0</Height>
+    <Width>0</Width>
+  </Shape>
+  <Shape xsi:type="Circle">
+    <Color>Purple</Color>
+    <Radius>12.3</Radius>
+    <Height>0</Height>
+    <Width>0</Width>
+  </Shape>
+  <Shape xsi:type="Rectangle">
+    <Color>Blue</Color>
+    <Radius>0</Radius>
+    <Height>45</Height>
+    <Width>18</Width>
+  </Shape>
+</ArrayOfShape>

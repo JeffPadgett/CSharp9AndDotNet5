@@ -1,0 +1,12 @@
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/bin/Debug/net5.0/Shapes.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/bin/Debug/net5.0/Shapes.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/bin/Debug/net5.0/ref/Shapes.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/bin/Debug/net5.0/Shapes.pdb
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/obj/Debug/net5.0/Shapes.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/obj/Debug/net5.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/obj/Debug/net5.0/Shapes.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/obj/Debug/net5.0/Shapes.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/obj/Debug/net5.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/obj/Debug/net5.0/Shapes.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/obj/Debug/net5.0/ref/Shapes.dll
+/Users/jeff/Desktop/Code/Code/Chapter09/Shapes/obj/Debug/net5.0/Shapes.pdb

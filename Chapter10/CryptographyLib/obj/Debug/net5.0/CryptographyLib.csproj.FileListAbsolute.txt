@@ -1,0 +1,12 @@
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/bin/Debug/net5.0/CryptographyLib.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/bin/Debug/net5.0/CryptographyLib.dll
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/bin/Debug/net5.0/ref/CryptographyLib.dll
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/bin/Debug/net5.0/CryptographyLib.pdb
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/obj/Debug/net5.0/CryptographyLib.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/obj/Debug/net5.0/CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/obj/Debug/net5.0/CryptographyLib.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/obj/Debug/net5.0/CryptographyLib.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/obj/Debug/net5.0/CryptographyLib.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/obj/Debug/net5.0/CryptographyLib.dll
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/obj/Debug/net5.0/ref/CryptographyLib.dll
+/Users/jeff/Desktop/Code/Code/Chapter10/CryptographyLib/obj/Debug/net5.0/CryptographyLib.pdb
