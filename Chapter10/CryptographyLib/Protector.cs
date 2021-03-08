@@ -185,13 +185,13 @@ namespace Packt.Shared
         public static void FromXmlStringExt(
           this RSA rsa, string parametersAsXml)
         {
-            var xml = XDocument.Parse(parametersAsXml);
-            var root = xml.Element("RSAKeyValue");
-            var p = new RSAParameters
+            var xml = XDocument.Parse(parametersAsXml);// converts the Xdocument to a string formation that can be readable
+            var root = xml.Element("RSAKeyValue");//determines the very root XML node/element
+            var p = new RSAParameters 
             {
                 Modulus = FromBase64String(root.Element("Modulus").Value),
                 Exponent = FromBase64String(root.Element("Exponent").Value)
-            };
+            };//creates new elements within within the root element named Modulus and Exponent 
 
             if (root.Element("P") != null)
             {
@@ -220,12 +220,12 @@ namespace Packt.Shared
         public static bool ValidateSignature(
           string data, string signature)
         {
-            byte[] dataBytes = Encoding.Unicode.GetBytes(data);
-            var sha = SHA256.Create();
-            var hashedData = sha.ComputeHash(dataBytes);
-            byte[] signatureBytes = FromBase64String(signature);
-            var rsa = RSA.Create();
-            rsa.FromXmlStringExt(PublicKey);
+            byte[] dataBytes = Encoding.Unicode.GetBytes(data);//creates an array of bytes from the string data var
+            var sha = SHA256.Create(); //class instance that houses functions designed by the USNSA and perform one way compression functions. 
+            var hashedData = sha.ComputeHash(dataBytes);//Hashes/encodes the byte array that was created from the local data var.
+            byte[] signatureBytes = FromBase64String(signature);// encoded value/signature used for varification and handshakes
+            var rsa = RSA.Create();//RSA is a class instance of an asymmetric cipher where you use one key (your "public key") to encrypt your secret key.
+            rsa.FromXmlStringExt(PublicKey);//forms an XML string. 
 
             return rsa.VerifyHash(hashedData, signatureBytes,
               HashAlgorithmName.SHA256, RSASignaturePadding.Pkcs1);

@@ -9,7 +9,7 @@ namespace SigningApp
     {
         static void Main(string[] args)
         {
-            Write("Enter some text to sign.");
+            Write("Enter some text to sign:");
             string data = ReadLine();
 
             var signature = Protector.GenerateSignature(data);
