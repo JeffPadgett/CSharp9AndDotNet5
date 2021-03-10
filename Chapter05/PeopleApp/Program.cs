@@ -269,9 +269,9 @@ namespace PeopleApp
             // Brittany.DoStuff();
             // Harry.DoStuff();
 
-            Employee aliceInEmployee = new Employee { Name = "Alice", EmployeeCode = "AA123"};
+            // Employee aliceInEmployee = new Employee { Name = "Alice", EmployeeCode = "AA123"};
 
-            Person aliceInPerson = aliceInEmployee;
+            // Person aliceInPerson = aliceInEmployee;
 
 
         }
