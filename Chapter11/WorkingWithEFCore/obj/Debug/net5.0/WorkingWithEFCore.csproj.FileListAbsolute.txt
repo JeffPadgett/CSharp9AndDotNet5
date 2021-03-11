@@ -47,3 +47,6 @@
 /Users/jeff/Desktop/Code/Code/Chapter11/WorkingWithEFCore/obj/Debug/net5.0/ref/WorkingWithEFCore.dll
 /Users/jeff/Desktop/Code/Code/Chapter11/WorkingWithEFCore/obj/Debug/net5.0/WorkingWithEFCore.pdb
 /Users/jeff/Desktop/Code/Code/Chapter11/WorkingWithEFCore/obj/Debug/net5.0/WorkingWithEFCore.genruntimeconfig.cache
+/Users/jeff/Desktop/Code/Code/Chapter11/WorkingWithEFCore/bin/Debug/net5.0/Humanizer.dll
+/Users/jeff/Desktop/Code/Code/Chapter11/WorkingWithEFCore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jeff/Desktop/Code/Code/Chapter11/WorkingWithEFCore/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
