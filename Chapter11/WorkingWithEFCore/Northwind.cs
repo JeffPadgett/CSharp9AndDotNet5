@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-
+using Microsoft.EntityFrameworkCore.Proxies;
 namespace Packt.Shared
 {
     // This manages the connection to the database
@@ -13,7 +13,7 @@ namespace Packt.Shared
         {
             string path = System.IO.Path.Combine(System.Environment.CurrentDirectory, "Northwind.db");
 
-            optionsBiulder.UseSqlite($"Filename={path}");
+            optionsBiulder.UseLazyLoadingProxies().UseSqlite($"Filename={path}");
         }
 
         // This method overrides holds top presidence and can be used to create all models and literally do everything if you want. 
@@ -30,6 +30,10 @@ namespace Packt.Shared
             modelBuilder.Entity<Product>()
             .Property(product => product.Cost)
             .HasConversion<double>();
+
+            // global filter to remove discontinued products
+            modelBuilder.Entity<Product>()
+            .HasQueryFilter(p => !p.Discontinued);
         }
     }
 }

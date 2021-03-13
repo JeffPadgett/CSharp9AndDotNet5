@@ -43,10 +43,28 @@ namespace Packt.Shared
             };
         }
 
+        //TState = Object, stupid naming. 
         public void Log<TState>(LogLevel logLevel, EventId eventId, TState state, Exception exception, Func<TState, Exception, string> formatter)
         {
             // Log the level and event identifier
             Write($"Level: {logLevel}, Event ID: {eventId.Id}");
+            if (eventId.Id == 20100)
+            {
+                WriteLine(formatter.ToString());
+                // log the level and event identifier
+                Write($"Level: {logLevel}, Event ID: : {eventId.Id}, Event: {eventId.Name}");
+                // only output the state or exception if it exist
+                if (state != null)
+                {
+                    Write($", State: {state}");
+                }
+
+                if (exception != null)
+                {
+                    Write($", Exception: {exception.Message}");
+                }
+                WriteLine();
+            }
 
             // only output the state or exception if it exist
             if (state != null)
