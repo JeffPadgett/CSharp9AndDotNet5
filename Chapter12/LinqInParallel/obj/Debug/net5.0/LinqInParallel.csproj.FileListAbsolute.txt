@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.dll
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/bin/Debug/net5.0/ref/LinqInParallel.dll
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.pdb
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.dll
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/obj/Debug/net5.0/ref/LinqInParallel.dll
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.pdb
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.genruntimeconfig.cache

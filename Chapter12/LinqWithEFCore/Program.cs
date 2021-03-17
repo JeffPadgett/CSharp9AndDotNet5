@@ -3,6 +3,7 @@ using static System.Console;
 using Packt.Shared;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using System.Xml;
 
 namespace LinqWithEFCore
 {
@@ -14,6 +15,7 @@ namespace LinqWithEFCore
             {
                 var query = db.Products
                 // query is a DbSet<Product>
+                //.ProcessSequence() // custom extension method
                 .Where(product => product.UnitPrice < 10M)
                 // query is now n IQueryable<Product>
                 .OrderByDescending(product => product.UnitPrice)
@@ -100,12 +102,35 @@ namespace LinqWithEFCore
             }
         }
 
+        static void CustomExtensionMethods()
+        {
+            using (var db = new Northwind())
+            {
+                WriteLine($"Mean units in stock: {db.Products.Average(p => p.UnitsInStock)}");
+                WriteLine($"Mean unit price: {db.Products.Average(p => p.UnitPrice)}");
+                WriteLine($"Median units in stock: {db.Products.Median(p => p.UnitsInStock)}");
+                WriteLine($"Median unit price:  {db.Products.Median(p => p.UnitPrice)}");
+                WriteLine($"Mode units in stock: {db.Products.Mode(p => p.UnitsInStock)}");
+                WriteLine($"Mode unit price: {db.Products.Mode(p => p.UnitPrice)}");
+
+            }
+        }
+
+        static void OutputProductsAsXml()
+        {
+            using (var db = new Northwind())
+            {
+                
+            }
+        }
+
         static void Main()
         {
             //FilterAndSort();
             //JoinCategoriesAndProducts();
             //GroupJoinCategoriesAndProducts();
-            AggregateProducts();
+            //AggregateProducts();
+            CustomExtensionMethods();
         }
     }
 }
