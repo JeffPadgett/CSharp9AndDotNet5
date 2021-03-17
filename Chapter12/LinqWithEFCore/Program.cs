@@ -4,6 +4,7 @@ using Packt.Shared;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Xml;
+using System.Xml.Linq;
 
 namespace LinqWithEFCore
 {
@@ -84,7 +85,7 @@ namespace LinqWithEFCore
                     }
                 }
 
-                
+
             }
 
         }
@@ -93,12 +94,12 @@ namespace LinqWithEFCore
         {
             using (var db = new Northwind())
             {
-                WriteLine($"{"Products Count:", -25} {db.Products.Count()}");
-                WriteLine($"{"Highest product price:", -25} {db.Products.Max(p => p.UnitPrice)}");
-                WriteLine($"{"Sum of units in stock:", -25} {db.Products.Sum(p => p.UnitsInStock)}");
-                WriteLine($"{"Sum of units on order:", -25} {db.Products.Sum(p => p.UnitsOnOrder)}");
-                WriteLine($"{"Average unit price: ", -25} {db.Products.Average(p => p.UnitPrice), 10:$#,##0.00}");
-                WriteLine($"{"Value of units in stock", -25} {db.Products.AsEnumerable().Sum(p => p.UnitPrice * p.UnitsInStock)}");
+                WriteLine($"{"Products Count:",-25} {db.Products.Count()}");
+                WriteLine($"{"Highest product price:",-25} {db.Products.Max(p => p.UnitPrice)}");
+                WriteLine($"{"Sum of units in stock:",-25} {db.Products.Sum(p => p.UnitsInStock)}");
+                WriteLine($"{"Sum of units on order:",-25} {db.Products.Sum(p => p.UnitsOnOrder)}");
+                WriteLine($"{"Average unit price: ",-25} {db.Products.Average(p => p.UnitPrice),10:$#,##0.00}");
+                WriteLine($"{"Value of units in stock",-25} {db.Products.AsEnumerable().Sum(p => p.UnitPrice * p.UnitsInStock)}");
             }
         }
 
@@ -120,7 +121,22 @@ namespace LinqWithEFCore
         {
             using (var db = new Northwind())
             {
-                
+                var productsForXml = db.Products.ToArray();
+                // var xml = new XElement("products",
+                //  from p in productsForXml
+                //  select new XElement("product",
+                //      new XAttribute("id", p.ProductID),
+                //      new XAttribute("price", p.UnitPrice),
+                //      new XElement("name", p.ProductName)));
+                // WriteLine(xml.ToString());
+                var xml = new XElement("products", productsForXml.Select(product => new //anonymous type
+                {
+                    product.ProductID,
+                    product.ProductName,
+                    product.UnitPrice
+                }));
+                WriteLine(xml.ToString());
+
             }
         }
 
@@ -130,7 +146,8 @@ namespace LinqWithEFCore
             //JoinCategoriesAndProducts();
             //GroupJoinCategoriesAndProducts();
             //AggregateProducts();
-            CustomExtensionMethods();
+            //CustomExtensionMethods();
+            OutputProductsAsXml();
         }
     }
 }
