@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.dll
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/bin/Debug/net5.0/ref/LinqWithSets.dll
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.pdb
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.dll
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/Debug/net5.0/ref/LinqWithSets.dll
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.pdb
+/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.genruntimeconfig.cache

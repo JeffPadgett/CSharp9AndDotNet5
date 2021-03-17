@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithObjects/LinqwithSets/LinqwithSets.csproj",
-      "projectName": "LinqwithSets",
-      "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithObjects/LinqwithSets/LinqwithSets.csproj",
+      "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/LinqWithSets.csproj",
+      "projectName": "LinqWithSets",
+      "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/LinqWithSets.csproj",
       "packagesPath": "/Users/jeff/.nuget/packages/",
-      "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithObjects/LinqwithSets/obj/",
+      "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter12/LinqWithSets/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeff/.nuget/NuGet/NuGet.Config"

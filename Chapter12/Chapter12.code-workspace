@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "LinqWithObjects"
+		},
+		{
+			"path": "LinqWithSets"
+		},
+		{
+			"path": "LinqWithEFCore"
 		}
 	]
 }
