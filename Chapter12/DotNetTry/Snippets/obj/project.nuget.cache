@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+PRFf1g4CHIrIZL1MdDHeOPCJzRuQ5CF31t885kVNd6wbSfWydgcsZG/EhItOxh7q/Gg8vh3flBwU9SbIiZlxg==",
+  "success": true,
+  "projectFilePath": "/Users/jeff/Desktop/Code/Code/Chapter12/DotNetTry/Snippets/Snippets.csproj",
+  "expectedPackageFiles": [
+    "/Users/jeff/.nuget/packages/microsoft.csharp/4.4.1/microsoft.csharp.4.4.1.nupkg.sha512",
+    "/Users/jeff/.nuget/packages/system.commandline/2.0.0-beta1.20359.2/system.commandline.2.0.0-beta1.20359.2.nupkg.sha512",
+    "/Users/jeff/.nuget/packages/system.commandline.dragonfruit/0.3.0-alpha.20309.1/system.commandline.dragonfruit.0.3.0-alpha.20309.1.nupkg.sha512",
+    "/Users/jeff/.nuget/packages/system.commandline.rendering/0.3.0-alpha.20309.1/system.commandline.rendering.0.3.0-alpha.20309.1.nupkg.sha512",
+    "/Users/jeff/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/jeff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -14,6 +14,15 @@
 		},
 		{
 			"path": "LinqInParallel"
+		},
+		{
+			"path": "Exersise02"
+		},
+		{
+			"path": "../../../CSharp 9/cs9dotnet5/Chapter12/Exercise02"
+		},
+		{
+			"path": "DotNetTry"
 		}
 	]
 }

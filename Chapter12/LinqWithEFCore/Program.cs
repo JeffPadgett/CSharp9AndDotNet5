@@ -145,7 +145,7 @@ namespace LinqWithEFCore
                 Value = node.Attribute("value").Value
             }).ToArray();
 
-            appSettings.Select(x => WriteLine($"{x.Key}: {x.Value}"));
+            appSettings.ToList().Foreach(x => WriteLine($"{x.Key}: {x.Value}"));
 
             // foreach(var item in appSettings)
             // {

@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jeff/Desktop/Code/Code/Chapter12/DotNetTry/Snippets/Snippets.csproj": {}
+  },
+  "projects": {
+    "/Users/jeff/Desktop/Code/Code/Chapter12/DotNetTry/Snippets/Snippets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jeff/Desktop/Code/Code/Chapter12/DotNetTry/Snippets/Snippets.csproj",
+        "projectName": "Snippets",
+        "projectPath": "/Users/jeff/Desktop/Code/Code/Chapter12/DotNetTry/Snippets/Snippets.csproj",
+        "packagesPath": "/Users/jeff/.nuget/packages/",
+        "outputPath": "/Users/jeff/Desktop/Code/Code/Chapter12/DotNetTry/Snippets/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jeff/Desktop/Code/Code/Chapter12/DotNetTry/Snippets/NuGet.Config",
+          "/Users/jeff/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta1.20359.2, )"
+            },
+            "System.CommandLine.DragonFruit": {
+              "target": "Package",
+              "version": "[0.3.0-alpha.20309.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
