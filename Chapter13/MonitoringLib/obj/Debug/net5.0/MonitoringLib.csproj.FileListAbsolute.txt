@@ -1,0 +1,12 @@
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/bin/Debug/net5.0/MonitoringLib.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/bin/Debug/net5.0/MonitoringLib.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/bin/Debug/net5.0/ref/MonitoringLib.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/bin/Debug/net5.0/MonitoringLib.pdb
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/obj/Debug/net5.0/ref/MonitoringLib.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.pdb
