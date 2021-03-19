@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/bin/Debug/net5.0/ref/WorkingWithTasks.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.pdb
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/obj/Debug/net5.0/ref/WorkingWithTasks.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.pdb
+/Users/jeff/Desktop/Code/Code/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.genruntimeconfig.cache
