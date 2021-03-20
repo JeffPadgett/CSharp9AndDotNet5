@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/ref/SynchronizingResourceAccess.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.pdb
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/ref/SynchronizingResourceAccess.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.pdb
+/Users/jeff/Desktop/Code/Code/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.genruntimeconfig.cache

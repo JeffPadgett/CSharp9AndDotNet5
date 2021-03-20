@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/bin/Debug/net5.0/ref/AsyncConsole.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.pdb
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/obj/Debug/net5.0/ref/AsyncConsole.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.pdb
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.genruntimeconfig.cache
