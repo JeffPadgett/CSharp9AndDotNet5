@@ -1,0 +1,15 @@
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.deps.json
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.runtimeconfig.json
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.runtimeconfig.dev.json
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/bin/Debug/net5.0/ref/AsyncEnumerable.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.pdb
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.csprojAssemblyReference.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.AssemblyInfoInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.AssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/obj/Debug/net5.0/ref/AsyncEnumerable.dll
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.pdb
+/Users/jeff/Desktop/Code/Code/Chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.genruntimeconfig.cache
