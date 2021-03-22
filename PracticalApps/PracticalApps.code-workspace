@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "NorthwindContextLib"
+		},
+		{
+			"path": "NorthwindWeb"
 		}
 	]
 }
