@@ -15,5 +15,8 @@
 		{
 			"path": "NorthwindEmployees"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NorthwindWeb"
+	}
 }

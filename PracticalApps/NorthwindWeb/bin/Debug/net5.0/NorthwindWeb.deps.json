@@ -26,6 +26,7 @@
       "NorthwindWeb/1.0.0": {
         "dependencies": {
           "NorthwindContextLib": "1.0.0",
+          "NorthwindEmployees": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -614,6 +615,17 @@
         },
         "compile": {
           "NorthwindContextLib.dll": {}
+        }
+      },
+      "NorthwindEmployees/1.0.0": {
+        "dependencies": {
+          "NorthwindContextLib": "1.0.0"
+        },
+        "runtime": {
+          "NorthwindEmployees.dll": {}
+        },
+        "compile": {
+          "NorthwindEmployees.dll": {}
         }
       },
       "NorthwindEntitiesLib/1.0.0": {
@@ -2504,6 +2516,11 @@
       "hashPath": "system.memory.4.5.3.nupkg.sha512"
     },
     "NorthwindContextLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthwindEmployees/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

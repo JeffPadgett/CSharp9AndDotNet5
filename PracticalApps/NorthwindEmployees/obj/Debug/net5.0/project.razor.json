@@ -15603,6 +15603,11 @@
   "RootNamespace": "NorthwindEmployees",
   "Documents": [
     {
+      "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/Areas/PacktFeatures/Pages/_ViewStart.cshtml",
+      "TargetPath": "Areas\\PacktFeatures\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/Areas/PacktFeatures/Pages/employees.cshtml",
       "TargetPath": "Areas\\PacktFeatures\\Pages\\employees.cshtml",
       "FileKind": "mvc"
@@ -15610,11 +15615,6 @@
     {
       "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/Areas/PacktFeatures/Pages/Shared/_Employee.cshtml",
       "TargetPath": "Areas\\PacktFeatures\\Pages\\Shared\\_Employee.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/Areas/PacktFeatures/_ViewStart.cshtml",
-      "TargetPath": "Areas\\PacktFeatures\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -64,3 +64,8 @@
 /Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/bin/Debug/net5.0/NorthwindEntitiesLib.dll
 /Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/bin/Debug/net5.0/NorthwindContextLib.pdb
 /Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
+/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.Views.dll
+/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.Views.pdb
+/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.dll
+/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.pdb
+/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/obj/Debug/net5.0/NorthwindWeb.MvcApplicationPartsAssemblyInfo.cs

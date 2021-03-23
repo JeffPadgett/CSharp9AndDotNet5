@@ -66,6 +66,65 @@
         }
       }
     },
+    "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj",
+        "projectName": "NorthwindEmployees",
+        "projectPath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj",
+        "packagesPath": "/Users/jeff/.nuget/packages/",
+        "outputPath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jeff/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
+                "projectPath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -154,6 +213,9 @@
             "projectReferences": {
               "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
                 "projectPath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj"
+              },
+              "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj": {
+                "projectPath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj"
               }
             }
           }
