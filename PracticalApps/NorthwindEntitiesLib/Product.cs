@@ -32,8 +32,9 @@ namespace Packt.Shared
         public long? CategoryId { get; set; }
         [Column(TypeName = "nvarchar (20)")]
         public string QuantityPerUnit { get; set; }
+
         [Column(TypeName = "money")]
-        public byte[] UnitPrice { get; set; }
+        public decimal UnitPrice { get; set; }
         [Column(TypeName = "smallint")]
         public long? UnitsInStock { get; set; }
         [Column(TypeName = "smallint")]

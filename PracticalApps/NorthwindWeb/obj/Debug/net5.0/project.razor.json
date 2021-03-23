@@ -15601,6 +15601,27 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "NorthwindWeb",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/Pages/index.cshtml",
+      "TargetPath": "Pages\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/Pages/Suppliers.cshtml",
+      "TargetPath": "Pages\\Suppliers.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
