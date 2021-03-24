@@ -15621,6 +15621,11 @@
       "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/Pages/Customers.cshtml",
+      "TargetPath": "Pages\\Customers.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

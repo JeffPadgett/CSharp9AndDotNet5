@@ -69,3 +69,4 @@
 /Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.dll
 /Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.pdb
 /Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/obj/Debug/net5.0/NorthwindWeb.MvcApplicationPartsAssemblyInfo.cs
+/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindWeb/obj/Debug/net5.0/Razor/Pages/Customers.cshtml.g.cs
