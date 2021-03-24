@@ -2,18 +2,49 @@
 @model PacktFeatures.Pages.CustomersModel
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
-<dev class="row">
+<div>Customer Count: @Model.Customers.Count</div>
+<div class="row">
     <h1 class="display-2">Customers</h1>
     <table class="table">
         <thead class="thead-inverse">
-            <tr><th>Country</th></tr>
+            <tr>
+                <th>Country</th>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <th>Title</th>
+                <th>City</th>
+                <th>Phone</th>
+                <th>Postal Code</th>
+            </tr>
         </thead>
         <tbody>
+            @* Loop through all customers returned, grouping by Country *@
+            @foreach(var curCustomerGroup in Model.Customers.GroupBy(x => x.Country)) 
+            {
+                // For each country grouping (each grouping has its own list of customers that
+                // are in that country) print out a group header row
+                <tr class="group-header">
+                    <td colsspan="5">@curCustomerGroup.Key</td>
+                </tr> 
+                foreach(var curCustomer in curCustomerGroup) 
+                {   
+                    // Print out the customer information for each customer in the Country Group
+                    <tr>
+                        <td>@curCustomer.ContactName</td>
+                        <td>@curCustomer.ContactTitle</td>
+                        <td>@curCustomer.City</td>
+                        <td>@curCustomer.Phone</td>
+                        <td>@curCustomer.PostalCode</td>
+                    </tr>
+                }
+            }
+
             @* @foreach(var kvp in ) 
             {
 
             } *@
         </tbody>
     </table>
-</dev>
+</div>
 

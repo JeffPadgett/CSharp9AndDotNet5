@@ -974,32 +974,45 @@
     ]
   },
   "packageFolders": {
-    "/Users/jeff/.nuget/packages/": {}
+    "C:\\Users\\i_am_\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj",
+      "projectUniqueName": "C:\\Users\\i_am_\\source\\repos\\git\\BrokenSword\\CSharp9AndDotNet5\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
       "projectName": "NorthwindEmployees",
-      "projectPath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj",
-      "packagesPath": "/Users/jeff/.nuget/packages/",
-      "outputPath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindEmployees/obj/",
+      "projectPath": "C:\\Users\\i_am_\\source\\repos\\git\\BrokenSword\\CSharp9AndDotNet5\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
+      "packagesPath": "C:\\Users\\i_am_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\i_am_\\source\\repos\\git\\BrokenSword\\CSharp9AndDotNet5\\PracticalApps\\NorthwindEmployees\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/jeff/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\i_am_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/PGERi47pgeNDwrXOnoblzFURKu5qShFLWLlPLBdPse6YK5CMyb/api": {},
+        "https://rmits.pkgs.visualstudio.com/_packaging/RMADAL-Packages%40Local/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
-              "projectPath": "/Users/jeff/Desktop/Code/Code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj"
+            "C:\\Users\\i_am_\\source\\repos\\git\\BrokenSword\\CSharp9AndDotNet5\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
+              "projectPath": "C:\\Users\\i_am_\\source\\repos\\git\\BrokenSword\\CSharp9AndDotNet5\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
             }
           }
         }
@@ -1031,7 +1044,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.1.21103.13\\RuntimeIdentifierGraph.json"
       }
     }
   }
