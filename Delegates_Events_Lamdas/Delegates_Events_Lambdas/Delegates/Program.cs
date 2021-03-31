@@ -8,42 +8,45 @@ using static System.Console;
 namespace DelegatesAndEvents
 {
     //Pipeline
-    public delegate void WorkPerformedDelegate(int hours, WorkType workType);
+    public delegate int WorkPerformedHandlerDelegate(int hours, WorkType workType);
 
     class Program
     {   
         //These handle the data... hence handlers. 
-        public static void WorkPerformed1(int hr, WorkType stuff)
+        public static int WorkPerformed1(int hr, WorkType stuff)
         {
             WriteLine($"WorkPerformed1 called {hr.ToString()} {stuff.ToString()}");
+            return hr + 1;
         }
         //These handle the data... hence handlers
-        public static void WorkPerformed2(int hr, WorkType stuff)
+        public static int WorkPerformed2(int hr, WorkType stuff)
         {
-            WriteLine("WorkPerformed2 called {hr.ToString()} {stuff.ToString()}");
+            WriteLine($"WorkPerformed2 called {hr.ToString()} {stuff.ToString()}");
+            return hr + 2;
+        }
+
+        public static int WorkPerformed3(int hr, WorkType stuff)
+        {
+            WriteLine($"WorkPerformed3 called {hr.ToString()} {stuff.ToString()}");
+            return hr + 3;
         }
         static void Main()
         {                      //pipeline dumps data here into this method >
-            WorkPerformedDelegate del1 = new WorkPerformedDelegate(WorkPerformed1);
-            WorkPerformedDelegate del2 = new WorkPerformedDelegate(WorkPerformed2);
+            WorkPerformedHandlerDelegate del1 = new WorkPerformedHandlerDelegate(WorkPerformed1);
+            WorkPerformedHandlerDelegate del2 = new WorkPerformedHandlerDelegate(WorkPerformed2);
+            WorkPerformedHandlerDelegate del3 = new WorkPerformedHandlerDelegate(WorkPerformed3);
 
-            //This is executing the methods that the pipelines(delegates) are dumping data into. 
-            //del1(5, WorkType.GenerateReports);
-            //del2(33, WorkType.Golf);
+            del1 += del2 + del3;
 
-            DoWork(del1);
-
+            int finalHours = del1(10, WorkType.GenerateReports);
+            WriteLine(finalHours);
             Read();
         }
-        // Why would we even make delegate? We do it to make our code dynamic based off certain events. 
-        // Imagine del being passed in from a totally seperate object, that is where the power comes in. 
-        static void DoWork(WorkPerformedDelegate del)
+
+        static void DoWork(WorkPerformedHandlerDelegate del)
         {
             //Dynamic
             del(5, WorkType.Golf);
-
-            ////Hard coded... Don't want this. 
-            //WorkPerformed1(5, WorkType.GoToMeetings);
 
         }
     }
