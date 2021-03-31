@@ -1,0 +1,13 @@
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\Delegates_Events_Lamdas\Delegates_Events_Lambdas\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
