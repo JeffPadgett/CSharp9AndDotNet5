@@ -26,13 +26,28 @@ namespace DelegatesAndEvents
             Func<int, int, int> funcMultiplyDel = (x, y) => x * y;
             data.ProcessFunc(2, 3, funcMultiplyDel);
 
-
             //Does the same thing as above, except defines a delegate without having to explicietly define it above on line 11
             //Actions don't return anything, you can use an action if you want nothing returned. 
             Action<int, int> myAdditionAction = (x, y) => Console.WriteLine(x + y);
             Action<int, int> myMultiplyAction = (x, y) => Console.WriteLine(x * y);
             data.ProcessAction(2, 3, myMultiplyAction);
 
+            //Example of how Func<type,returnType> is used in LINQ
+            var custs = new List<Customer>
+            {
+                new Customer {City = "Middleburg", FirstName = "Brandon", LastName = "Miller", ID = 48},
+                new Customer {City = "Jacksonville", FirstName = "Harry", LastName = "Soulis", ID = 7},
+                new Customer {City = "Fruit Cove", FirstName = "Jeffrey", LastName = "Padgett", ID = 777},
+                new Customer {City = "Fruit Cove", FirstName = "Brittany", LastName = "Smith", ID = 222}
+            };
+
+            var redNecks = custs.Where(cust => cust.City == "Middleburg")
+                .OrderBy(c => c.FirstName);
+
+            foreach (var cust in redNecks)
+            {
+                WriteLine(cust.FirstName);
+            }
 
             var worker = new Worker();
             //  Step 2: Now, the Subscriber tunes in to the channel, Subscribes to WorkPerformed.
