@@ -8,11 +8,20 @@ using static System.Console;
 namespace DelegatesAndEvents
 {
 
-
+    public delegate int BizRulesDelegate(int x, int y);
     class Program
     {   
         static void Main()
-        {                      
+        {
+            //How to use delegates to dynamically pass business logic. 
+            BizRulesDelegate addDel = (x, y) => x + y;
+            BizRulesDelegate multiplyDel = (x, y) => x * y;
+            BizRulesDelegate subtractDel = (x, y) => x - y;
+            var data = new ProcessData();
+            data.Process(2, 3, addDel);
+
+
+
             var worker = new Worker();
             //  Step 2: Now, the Subscriber tunes in to the channel, Subscribes to WorkPerformed.
             worker.WorkPerformed += Worker_WorkPerformed;
