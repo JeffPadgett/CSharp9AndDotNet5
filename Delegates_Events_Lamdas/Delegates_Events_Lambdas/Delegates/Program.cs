@@ -7,47 +7,27 @@ using static System.Console;
 
 namespace DelegatesAndEvents
 {
-    //Pipeline
-    public delegate int WorkPerformedHandlerDelegate(int hours, WorkType workType);
+
 
     class Program
     {   
-        //These handle the data... hence handlers. 
-        public static int WorkPerformed1(int hr, WorkType stuff)
-        {
-            WriteLine($"WorkPerformed1 called {hr.ToString()} {stuff.ToString()}");
-            return hr + 1;
-        }
-        //These handle the data... hence handlers
-        public static int WorkPerformed2(int hr, WorkType stuff)
-        {
-            WriteLine($"WorkPerformed2 called {hr.ToString()} {stuff.ToString()}");
-            return hr + 2;
-        }
-
-        public static int WorkPerformed3(int hr, WorkType stuff)
-        {
-            WriteLine($"WorkPerformed3 called {hr.ToString()} {stuff.ToString()}");
-            return hr + 3;
-        }
         static void Main()
-        {                      //pipeline dumps data here into this method >
-            WorkPerformedHandlerDelegate del1 = new WorkPerformedHandlerDelegate(WorkPerformed1);
-            WorkPerformedHandlerDelegate del2 = new WorkPerformedHandlerDelegate(WorkPerformed2);
-            WorkPerformedHandlerDelegate del3 = new WorkPerformedHandlerDelegate(WorkPerformed3);
+        {                      
+            var worker = new Worker();
+            worker.WorkPerformed += new EventHandler<WorkPerformedEventArgs>(Worker_WorkPerformed);
+            worker.WorkCompleted += new EventHandler(Worker_WorkCompleted);
+            worker.DoWork(8, WorkType.GenerateReports);
 
-            del1 += del2 + del3;
-
-            int finalHours = del1(10, WorkType.GenerateReports);
-            WriteLine(finalHours);
             Read();
         }
-
-        static void DoWork(WorkPerformedHandlerDelegate del)
+        static void Worker_WorkPerformed(object sender, WorkPerformedEventArgs e)
         {
-            //Dynamic
-            del(5, WorkType.Golf);
+            WriteLine($"Hours worked: {e.Hours} and performed: {e.WorkType}");
+        }
 
+        static void Worker_WorkCompleted(object sender, EventArgs e)
+        {
+            WriteLine("Worker is done");
         }
     }
 
