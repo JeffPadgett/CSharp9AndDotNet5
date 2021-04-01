@@ -20,6 +20,18 @@ namespace DelegatesAndEvents
             var data = new ProcessData();
             data.Process(2, 3, addDel);
 
+            //Does the samme thing as above, except defines a delegate without having to explictly define it.
+            //Quick way to return a value and create a delegate at the same time. 
+            Func<int, int, int> funcAddDel = (x, y) => x + y;
+            Func<int, int, int> funcMultiplyDel = (x, y) => x * y;
+            data.ProcessFunc(2, 3, funcMultiplyDel);
+
+
+            //Does the same thing as above, except defines a delegate without having to explicietly define it above on line 11
+            //Actions don't return anything, you can use an action if you want nothing returned. 
+            Action<int, int> myAdditionAction = (x, y) => Console.WriteLine(x + y);
+            Action<int, int> myMultiplyAction = (x, y) => Console.WriteLine(x * y);
+            data.ProcessAction(2, 3, myMultiplyAction);
 
 
             var worker = new Worker();
