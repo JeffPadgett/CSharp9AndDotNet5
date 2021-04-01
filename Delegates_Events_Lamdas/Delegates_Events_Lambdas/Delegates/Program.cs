@@ -14,12 +14,13 @@ namespace DelegatesAndEvents
         static void Main()
         {                      
             var worker = new Worker();
-            worker.WorkPerformed += new EventHandler<WorkPerformedEventArgs>(Worker_WorkPerformed);
-            worker.WorkCompleted += new EventHandler(Worker_WorkCompleted);
+            worker.WorkPerformed += Worker_WorkPerformed;
+            worker.WorkCompleted += Worker_WorkCompleted;
             worker.DoWork(8, WorkType.GenerateReports);
 
             Read();
         }
+        //Events 
         static void Worker_WorkPerformed(object sender, WorkPerformedEventArgs e)
         {
             WriteLine($"Hours worked: {e.Hours} and performed: {e.WorkType}");
