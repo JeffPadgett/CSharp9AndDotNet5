@@ -9,15 +9,12 @@
       Title="Jobs">
 
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="auto"></RowDefinition>
-            <RowDefinition Height="auto"></RowDefinition>
-            <RowDefinition Height="auto"></RowDefinition>
-            <RowDefinition Height="auto"></RowDefinition>
-            <RowDefinition Height="*"></RowDefinition>
-        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="21*"></ColumnDefinition>
+            <ColumnDefinition Width="79*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
 
-        <ComboBox Grid.Row="0" ItemsSource="{Binding Jobs}">
+        <ComboBox Grid.Row="0" Margin="10,10,10,10" ItemsSource="{Binding Jobs}">
             <ComboBox.ItemTemplate>
                 <DataTemplate>
                     <TextBlock Text="{Binding Title}"></TextBlock>

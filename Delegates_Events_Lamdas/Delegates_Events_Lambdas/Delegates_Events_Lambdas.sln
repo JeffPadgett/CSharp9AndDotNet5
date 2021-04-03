@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{C986E4CC-D7F2-4F3F-A822-5159C3F3F5A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{C986E4CC-D7F2-4F3F-A822-5159C3F3F5A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicatingBetweenControls", "CommunicatingBetweenControls\CommunicatingBetweenControls.csproj", "{CCF6E30C-9450-4CD8-8AB7-3233B1511FA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicatingBetweenControls", "..\..\..\..\CommunicatingBetweenControls\CommunicatingBetweenControls.csproj", "{CD8CBEB6-507B-4758-8A6E-C4A7026E6259}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C986E4CC-D7F2-4F3F-A822-5159C3F3F5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C986E4CC-D7F2-4F3F-A822-5159C3F3F5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C986E4CC-D7F2-4F3F-A822-5159C3F3F5A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CCF6E30C-9450-4CD8-8AB7-3233B1511FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCF6E30C-9450-4CD8-8AB7-3233B1511FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCF6E30C-9450-4CD8-8AB7-3233B1511FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCF6E30C-9450-4CD8-8AB7-3233B1511FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8CBEB6-507B-4758-8A6E-C4A7026E6259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8CBEB6-507B-4758-8A6E-C4A7026E6259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8CBEB6-507B-4758-8A6E-C4A7026E6259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8CBEB6-507B-4758-8A6E-C4A7026E6259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
