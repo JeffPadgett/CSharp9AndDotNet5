@@ -1,0 +1,13 @@
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.exe
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.deps.json
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.runtimeconfig.json
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.runtimeconfig.dev.json
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.dll
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.pdb
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.csprojAssemblyReference.cache
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.AssemblyInfoInputs.cache
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.AssemblyInfo.cs
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.dll
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.pdb
+C:\Users\jp171\Desktop\Code\CSharp9AndDotNet5\WorkingWithNullsInCSharp\WorkingWithNullsInCSharp\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.genruntimeconfig.cache
