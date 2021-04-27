@@ -14,6 +14,13 @@ namespace Tweetbook.Contracts.V1
         public static class Posts
         {
             public const string GetAll = Base + "/posts";
+
+            public const string Create = Base + "/posts";
+
+            public const string Get = Base + "/posts/{postId}";
+
+
         }
+
     }
 }
