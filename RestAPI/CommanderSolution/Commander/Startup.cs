@@ -29,12 +29,12 @@ namespace Commander
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            string sqlLiteDbPath = Path.Combine("..","Data", "CommanderDb.db");
+            string sqlLiteDbPath = Path.Combine(Directory.GetCurrentDirectory(),"Data","Database", "CommanderDb.db");
             services.AddDbContext<CommanderContext>(options => options.UseSqlite($"Data Source={sqlLiteDbPath}"));
 
             services.AddControllers();
 
-            services.AddScoped<ICommanderRepo, MockCommanderRepo>();
+            services.AddScoped<ICommanderRepo, SqlLiteCommanderRepo>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Commander", Version = "v1" });
