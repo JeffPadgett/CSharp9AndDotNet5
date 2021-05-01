@@ -14,6 +14,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Newtonsoft.Json.Serialization;
 
 namespace Commander
 {
@@ -32,7 +33,10 @@ namespace Commander
             string sqlLiteDbPath = Path.Combine(Directory.GetCurrentDirectory(),"Data","Database", "CommanderDb.db");
             services.AddDbContext<CommanderContext>(options => options.UseSqlite($"Data Source={sqlLiteDbPath}"));
 
-            services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson(s =>
+            {
+                s.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
+            });
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
