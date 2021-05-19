@@ -1,4 +1,5 @@
-﻿@page
+﻿@page "{restaurantId:int}"
+
 @model OdeToFood.Pages.Restaurants.ListModel
 @{
 }
@@ -8,7 +9,7 @@
 <form method="get">
     <div class="form-group">
         <div class="input-group">
-            <input type="search" class="form-control" value="" />
+            <input type="search" class="form-control" asp-for="SearchTerm"/>
             <span class="input-group-text">
                 <button class="btn btn-secondary">
                     <i class="bi bi-search"></i>
@@ -25,7 +26,13 @@
             <td>@restaurant.Name</td>
             <td>@restaurant.Location</td>
             <td>@restaurant.Cuisine</td>
+            <td>
+                <a class="btn btn-info"
+                   asp-page="Detail" asp-route-name-restaurantId="@restaurant.Id">Info
+                </a>
+            </td>
         </tr>
+
     }
 </table>
 

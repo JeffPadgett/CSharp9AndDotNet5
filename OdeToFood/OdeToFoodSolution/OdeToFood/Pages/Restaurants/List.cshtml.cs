@@ -24,10 +24,13 @@ namespace OdeToFood.Pages.Restaurants
         public string Message { get; set; }
         public IEnumerable<Restaurant> Restaurants { get; set; }
 
+        [BindProperty(SupportsGet = true)]
+        public string SearchTerm { get; set; }
+
         public void OnGet()
         {
             Message = confiuration["Message"];
-            Restaurants = restaurantData.GetAll();
+            Restaurants = restaurantData.GetRestaurantsByName(SearchTerm);
         }
     }
 }
