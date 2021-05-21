@@ -24,6 +24,8 @@ namespace OdeToFood
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            //Anytime you create a ctor and it has IRestaurantData, It will inject the InMemoryRestaurantData singleton - a single in memory instance.
             services.AddSingleton<IRestaurantData, InMemoryRestaurantData>();
 
             services.AddRazorPages();
