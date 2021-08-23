@@ -5,67 +5,63 @@ namespace GameEngine.Test
 {
     public class PlayerCharacterShould
     {
-        private readonly PlayerCharacter _sut;
-
-        public PlayerCharacterShould()
-        {
-            _sut = new();
-        }
-
         [Fact]
         public void BeInexperiencedWhenNew()
         {
-            Assert.True(_sut.IsNoob);
+            //arrange
+            PlayerCharacter sut = new();
+
+            //act
+
+            //assert
+            Assert.True(sut.IsNoob);
         }
 
         [Fact]
         public void CalculateFullName()
         {
+            PlayerCharacter sut = new PlayerCharacter();
 
-            _sut.FirstName = "Sarah";
-            _sut.LastName = "Smith";
+            sut.FirstName = "Sarah";
+            sut.LastName = "Smith";
 
-            Assert.StartsWith("Sarah", _sut.FullName);
+            Assert.StartsWith("Sarah", sut.FullName);
         }
 
         [Fact]
         public void CalculateFullName_IgnoreCaseAssert()
         {
-            _sut.FirstName = "SARAH";
-            _sut.LastName = "SMITH";
+            PlayerCharacter sut = new PlayerCharacter();
 
-            Assert.Equal("Sarah Smith", _sut.FullName, ignoreCase: true) ;
+            sut.FirstName = "SARAH";
+            sut.LastName = "SMITH";
+
+            Assert.Equal("Sarah Smith", sut.FullName, ignoreCase: true) ;
         }
-
 
         [Fact]
         public void NotHaveNickNameByDefault()
         {
-            Assert.Null(_sut.Nickname);
+            //arrange
+            PlayerCharacter sut = new();
+
+            //act
+
+            //assert
+            Assert.Null(sut.Nickname);
         }
 
         [Fact]
-        public void HaveALongBow()
+        public void NotHaveNickNameByDefault()
         {
-            Assert.Contains("Long Bow", _sut.Weapons);
+            //arrange
+            PlayerCharacter sut = new();
+
+            //act
+
+            //assert
+            Assert.Null(sut.Nickname);
         }
-
-        [Fact]
-        public void HaveAtLeastOneKindOfSword()
-        {
-            Assert.Contains(_sut.Weapons, x => x.Contains("Sword"));
-        }
-
-        [Fact]
-        public void RaiseSleptEvent()
-        {
-            Assert.Raises<EventArgs>(
-                handler => _sut.PlayerSlept += handler,
-                handler => _sut.PlayerSlept -= handler,
-                () => _sut.Sleep());
-        }
-
-
     }
 
 
