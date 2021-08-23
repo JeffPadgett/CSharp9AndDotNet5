@@ -13,14 +13,14 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="coverlet.collector" Version="1.3.0">
+    <PackageReference Include="coverlet.collector" Version="3.1.0">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\02\demos\before\02StartingTest\GameEngine\GameEngine.csproj" />
+    <ProjectReference Include="..\..\..\..\..\..\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\02StartingTest\GameEngine\GameEngine.csproj" />
   </ItemGroup>
 
 </Project>
