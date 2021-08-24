@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 using WiredBrainCoffee.StorageApp.Repositories;
 using WiredBrainCoffee.StorageApp.Entities;
-using System;
+using WiredBrainCoffee.StorageApp.Data;
 
 namespace WiredBrainCoffee.StorageApp
 {
@@ -9,23 +9,23 @@ namespace WiredBrainCoffee.StorageApp
     {
         static void Main(string[] args)
         {
-            GenericRepository<Employee> empRepo = new();
+            SqlRepository<Employee> empRepo = new(new StorageAppDbContext());
             AddEmployees(empRepo);
             GetEmployeeById(empRepo);
 
-            GenericRepository<Organization> orgRepo = new();
+            ListRepository<Organization> orgRepo = new();
             AddOrganizations(orgRepo);
 
             ReadLine();
         }
 
-        private static void GetEmployeeById(GenericRepository<Employee> empRepo)
+        private static void GetEmployeeById(IRepository<Employee> empRepo)
         {
             var emp = empRepo.GetById(2);
-            Console.WriteLine($"Employee with Id 2: {emp}");
+            WriteLine($"Employee with Id 2: {emp}");
         }
 
-        private static void AddEmployees(GenericRepository<Employee> empRepo)
+        private static void AddEmployees(IRepository<Employee> empRepo)
         {
             empRepo.Add(new Employee { FirstName = "Jessie" });
             empRepo.Add(new Employee { FirstName = "Anna" });
@@ -33,7 +33,7 @@ namespace WiredBrainCoffee.StorageApp
             empRepo.Save();
         }
 
-        private static void AddOrganizations(GenericRepository<Organization> orgRepo)
+        private static void AddOrganizations(IRepository<Organization> orgRepo)
         {
             orgRepo.Add(new Organization { Name = "pluralsight" });
             orgRepo.Add(new Organization { Name = "CIT bank" });

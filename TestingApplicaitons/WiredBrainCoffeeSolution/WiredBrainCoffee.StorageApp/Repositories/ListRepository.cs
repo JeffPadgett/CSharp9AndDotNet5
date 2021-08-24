@@ -6,7 +6,7 @@ using static System.Console;
 
 namespace WiredBrainCoffee.StorageApp.Repositories
 {
-    public class GenericRepository<T> where T: IEntity
+    public class ListRepository<T> : IRepository<T> where T: IEntity
     {
         private readonly List<T> _items = new();
         public void Add(T items)
@@ -23,12 +23,9 @@ namespace WiredBrainCoffee.StorageApp.Repositories
             }
         }
 
-        public void Remove()
+        public void Remove(T item)
         {
-            foreach (var item in _items)
-            {
-                WriteLine(item);
-            }
+            _items.Remove(item);
         }
 
         public T GetById(int id)
