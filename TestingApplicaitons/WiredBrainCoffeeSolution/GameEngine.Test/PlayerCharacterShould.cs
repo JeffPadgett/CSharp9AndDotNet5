@@ -51,17 +51,6 @@ namespace GameEngine.Test
             Assert.Null(sut.Nickname);
         }
 
-        [Fact]
-        public void NotHaveNickNameByDefault()
-        {
-            //arrange
-            PlayerCharacter sut = new();
-
-            //act
-
-            //assert
-            Assert.Null(sut.Nickname);
-        }
     }
 
 

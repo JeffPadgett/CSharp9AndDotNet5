@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+	  <Nullable>enable</Nullable> <!--makes reference types not able to be null unless explicidly stated.--> 
+  </PropertyGroup>
+
+</Project>

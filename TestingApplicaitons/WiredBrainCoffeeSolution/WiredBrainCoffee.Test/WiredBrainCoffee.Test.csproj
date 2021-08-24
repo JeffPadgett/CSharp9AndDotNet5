@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -22,6 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\02\demos\before\02StartingTest\GameEngine\GameEngine.csproj" />
     <ProjectReference Include="..\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp.csproj" />
+    <ProjectReference Include="..\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp.csproj" />
   </ItemGroup>
 
 </Project>
